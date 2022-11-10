@@ -111,3 +111,14 @@ code {
     font-size: 0.9rem;
     border-radius: 5px;
 }
+
+footer {
+    text-align: center;
+    line-height: 0.4rem;
+    margin-bottom: 1rem;
+}
+
+footer > p {
+    margin: 0;
+    opacity: 0.6;
+}
