@@ -1,6 +1,6 @@
 Technical documentation page about JavaScript
 
-Learning responsive CSS, using "@media" rules...
+*Learning responsive CSS, using "@media" rules...*
 
 Desktop  
 
