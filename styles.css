@@ -122,3 +122,11 @@ footer > p {
     margin: 0;
     opacity: 0.6;
 }
+
+footer > p > a {
+    color: black;
+}
+
+footer > p > a:hover {
+    opacity: 0.7;
+}
